@@ -1,0 +1,10 @@
+#Create a greeting for your program.
+print("Welcome to the brand name generator \n")
+#Ask the user for the city that they grew up in.
+c=input("Enter the name of your city \n")
+#Ask the user for the name of a pet.
+p=input("Enter the name of your pet \n")
+#Combine the name of their city and pet and show them their band name.
+print("Your brand name could be ")
+print( c +" " + p)
+#5Make sure the input cursor shows on a new line, see the example at:
