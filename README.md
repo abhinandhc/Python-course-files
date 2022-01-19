@@ -2,7 +2,7 @@
 - 👀 I’m interested in automation and machine learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me on instagram-abhinandh_c
+- 📫 How to reach me on instagram-abhinandh_c/twitter-abhinandhc8
 
 <!---
 abhinandhc/abhinandhc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
